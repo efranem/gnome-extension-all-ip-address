@@ -1,0 +1,16 @@
+{
+  "description": "Show IP addresses for LAN, WAN IPv6 and VPN (Cisco AnyConnect) in the GNOME panel. Click on the address to cycle trough different interfaces.", 
+  "name": "All IP Addresses (modificada para mostrar la VPN de CISCO AnyConnect", 
+  "shell-version": [
+    "3.32",
+    "3.34",
+    "3.36",
+    "3.38",
+    "40",
+    "41",
+    "42"
+  ], 
+  "url": "https://github.com/phavekes/gnome-extension-all-ip-addresses", 
+  "uuid": "gnome-extension-all-ip-addresses-cisco@havekes.eu", 
+  "version": 6
+}
